@@ -4,8 +4,8 @@ import { ArrowDown, ArrowUp } from "react-feather";
 
 
 
-import Editor from "../Editor/Editor";
-import Resume from "../Resume/Resume";
+import Editor from "../Editor/ResumeEditor";
+import Resume from "../Resume/ResumeOutput";
 
 import styles from "./Body.module.css";
 
